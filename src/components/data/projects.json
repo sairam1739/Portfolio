@@ -1,0 +1,18 @@
+[
+    {
+        "key":1,
+        "title": "Insurance Cost Prediction",
+        "imageSrc":"project/Robot_thinking.jpg",
+        "description":"",
+        "demo":"",
+        "source":""
+    }, 
+    {
+        "key":2,
+        "title": "ShopHub",
+        "imageSrc":"project/shophub_logo.png",
+        "description":"",
+        "demo":"",
+        "source":""
+    }
+]
